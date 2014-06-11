@@ -8,7 +8,14 @@ Open Intention is an intention driven taxonomy for tools
 
  * To help find tools (for instance on [Open Integrity Index](https://openintegrity.org))
 
-# I want to
+# Possible next steps
+
+ * Publish an example tool dataset using of the taxonomy
+ * Publish the taxonomy as [linked open data](http://linkeddata.org/)
+
+# The Open Intention Taxonomy
+
+**I want to...**
 
 Access information
   * on the web
